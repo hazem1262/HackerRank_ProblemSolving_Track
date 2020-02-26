@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.strings.StrongPasswordKt">
+  <component name="RunManager" selected="Kotlin.strings.TwoCharactersKt">
     <configuration name="strings.StrongPasswordKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HackerRank_ProblemSolving_Track" />
       <option name="VM_PARAMETERS" />
@@ -62,8 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="strings.TwoCharactersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank_ProblemSolving_Track" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="strings.TwoCharactersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.strings.TwoCharactersKt" />
         <item itemvalue="Kotlin.strings.StrongPasswordKt" />
         <item itemvalue="Kotlin.strings.SuperReducedStringKt" />
       </list>
@@ -137,6 +151,14 @@
           <url>file://$PROJECT_DIR$/src/strings/SuperReducedString.kt</url>
           <line>34</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/strings/TwoCharacters.kt</url>
+          <line>38</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
